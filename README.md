@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Felipe</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Ahgora Sistemas**
+- 🔭 I’m currently working on **Ahgora Sistemas.**
 
 - 🌱 I’m currently learning **Flutter, Dart and Kotlin.**
 
