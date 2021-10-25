@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ahgora Sistemas.**
 
-- 🌱 I’m currently learning **Flutter, Dart and Kotlin.**
+- 🌱 I’m currently learning **Flutter and Dart.**
 
 - 📫 How to reach me **gabrielhfdl@gmail.com**
 
