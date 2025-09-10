@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently building mobile apps using Flutter <br>🤝 I’d love to collaborate on open-source initiatives and app development projects <br>🙏 I’m open to guidance on backend technologies like Node.js, NestJS, and Go <br>🌱 I’m diving into API design, backend architecture, and database management <br>💬 You can reach out to me about Flutter, clean architecture, or mobile best practices <br>⚡ Note: My GitHub isn’t very active since I focus mostly on work projects, but I plan to change that soon
+🛠 I’m currently building mobile apps using Flutter <br>🤝 I’d love to collaborate on open-source initiatives and app development projects<br> 💬 You can reach out to me about Flutter, clean architecture, or mobile best practices <br>⚡ Note: My GitHub isn’t very active since I focus mostly on work projects, but I plan to change that soon
 
 
 ## 🌐 Socials:
