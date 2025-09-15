@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently building mobile apps using Flutter <br>🤝 I’d love to collaborate on open-source initiatives and app development projects<br> 💬 You can reach out to me about Flutter, clean architecture, or mobile best practices <br>⚡ Note: My GitHub isn’t very active since I focus mostly on work projects, but I plan to change that soon
+I'm currently focused on building mobile apps with Flutter. I'm very interested in collaborating on open-source projects and am available to discuss clean architecture and mobile best practices.
 
 
 ## 🌐 Socials:
